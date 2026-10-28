@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frentistech.github.io/sitemap.xml
+Sitemap: https://frentistechcom.github.io/sitemap.xml
