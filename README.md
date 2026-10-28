@@ -36,4 +36,11 @@ A curated, editorial directory connecting families with verified community matri
 - **District Hubs**: Deep links covering Pune, Mumbai, Nashik, Kolhapur, Satara, Solapur, Sangli, and Chh. Sambhajinagar.
 
 ---
+---
+
+## 🛠️ Developed & Managed By
+
+- **[Frentis Technology](https://frentistech.com?utm_source=frentistech.github.io&utm_medium=referral&utm_campaign=readme_credit)** — Enterprise Matrimonial Software & Cloud Platforms
+
+---
 © 2026 Frentis Matrimony & Biodata Directory. Managed by [frentistechcom](https://github.com/frentistechcom).
