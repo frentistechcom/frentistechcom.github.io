@@ -1,6 +1,6 @@
 # Marathi Matrimony & Community Matrimonial Directory
 
-> **Official Live GitHub Pages**: [https://frentistechcom.github.io/marathi.github.io/](https://frentistechcom.github.io/marathi.github.io/)
+> **Official Live GitHub Pages**: [https://frentistech.github.io/](https://frentistech.github.io/)
 
 A high-authority, curated directory and resource hub featuring official, verified Marathi Matrimonial portals and tools across Maharashtra.
 
@@ -22,4 +22,4 @@ A high-authority, curated directory and resource hub featuring official, verifie
 - **Mobile Responsive**: Built with modern Tailwind CSS and Google Fonts (`Noto Sans Devanagari`).
 
 ---
-© 2026 Marathi Matrimony Network. Managed by [frentistechcom](https://github.com/frentistechcom).
+© 2026 Marathi Matrimony Network. Managed by [frentistechcom](https://github.com/frentistech).
